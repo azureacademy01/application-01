@@ -9,3 +9,4 @@ spec:
       image: nginx:latest
       ports:
         - containerPort: 80
+# added a comment to indicate that this is a simple pod configuration for an Nginx container.
