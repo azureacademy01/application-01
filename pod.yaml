@@ -10,6 +10,4 @@ spec:
       ports:
         - containerPort: 80
 # added a comment to indicate that this is a simple pod configuration for an Nginx container.
-# this is a simple pod configuration for an Nginx container.
-# thoer comment added to indicate that this is a simple pod configuration for an Nginx container.
-#new comment added to indicate that this is a simple pod configuration for an Nginx container.
+# adding another commit from DevOps team to test the CI/CD pipeline.
